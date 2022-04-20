@@ -1,0 +1,11 @@
+C:\Users\fernando.meninato\source\repos\PoToEdifactAddon\PoToEdifactAddon\bin\Debug\PoToEdifactAddon.exe.config
+C:\Users\fernando.meninato\source\repos\PoToEdifactAddon\PoToEdifactAddon\bin\Debug\PoToEdifactAddon.exe
+C:\Users\fernando.meninato\source\repos\PoToEdifactAddon\PoToEdifactAddon\bin\Debug\PoToEdifactAddon.pdb
+C:\Users\fernando.meninato\source\repos\PoToEdifactAddon\PoToEdifactAddon\obj\Debug\Interop.SAPbouiCOM.dll
+C:\Users\fernando.meninato\source\repos\PoToEdifactAddon\PoToEdifactAddon\obj\Debug\PoToEdifactAddon.csproj.ResolveComReference.cache
+C:\Users\fernando.meninato\source\repos\PoToEdifactAddon\PoToEdifactAddon\obj\Debug\PoToEdifactAddon.Properties.Resources.resources
+C:\Users\fernando.meninato\source\repos\PoToEdifactAddon\PoToEdifactAddon\obj\Debug\PoToEdifactAddon.csproj.GenerateResource.cache
+C:\Users\fernando.meninato\source\repos\PoToEdifactAddon\PoToEdifactAddon\obj\Debug\PoToEdifactAddon.csproj.CoreCompileInputs.cache
+C:\Users\fernando.meninato\source\repos\PoToEdifactAddon\PoToEdifactAddon\obj\Debug\PoToEdifactAddon.exe
+C:\Users\fernando.meninato\source\repos\PoToEdifactAddon\PoToEdifactAddon\obj\Debug\PoToEdifactAddon.pdb
+C:\Users\fernando.meninato\source\repos\PoToEdifactAddon\PoToEdifactAddon\obj\Debug\Interop.SAPbobsCOM.dll
